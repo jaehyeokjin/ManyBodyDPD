@@ -1,0 +1,3 @@
+Following Cutoff Was Used for Markovian DPD
+finer: DensityCutoff = 4.0
+coarser: DensityCutoff = 6.0
