@@ -1,0 +1,16 @@
+info->start=0.5000
+info->end=6.3000
+info->start_density=0.0
+info->end_density=1.0
+info->boxlox=0.0
+info->boxloy=0.0
+info->boxloz=0.0
+info->boxhix=12.597
+info->boxhiy=12.597
+info->boxhiz=12.597
+info->outputPrecision=0.001
+info->splineOrder=4
+info->numSplines=50
+info->numSplinesDensity=20
+info->steps=399900
+info->maxIter=100
