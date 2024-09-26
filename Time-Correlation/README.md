@@ -12,4 +12,4 @@ This folder contains GLE code used to determine the friction kernel. We have ada
 Click the icon above to access the original [FitGLE repository](https://github.com/jaehyeokjin/FitGLE).
 
 ### 2. scratch-sparse
-This folder contains the analysis code for time correlation. It provides the files needed to map trajectories at finer resolutions. Note that the trajectory data itself is archived due to its large volume.
+This folder contains the analysis code for time correlation. It provides the files needed to map trajectories at finer resolutions. Note that the trajectory data itself is archived and uploaded separately into the Zenodo Repository [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.13841228-1e90ff.svg)](https://doi.org/10.5281/zenodo.13841227)
